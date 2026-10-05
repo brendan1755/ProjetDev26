@@ -1,7 +1,0 @@
-{
-  "name": "productivity-frontend",
-  "version": "1.0.0",
-  "description": "Front du site de productivité (HTML/CSS/JS servi par Node)",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" }
-}
