@@ -1,0 +1,14 @@
+{
+  "name": "productivity-backend",
+  "version": "1.0.0",
+  "description": "API REST du site de productivité (to-do, pomodoro, agenda)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint .",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "eslint": "^10.12.0"
+  }
+}
